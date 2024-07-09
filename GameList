@@ -1,5 +1,1 @@
-getgenv().Games = {
-  [3101667897] = "https://raw.githubusercontent.com/ProjectV1ontop/ProjectV1/main/Legend%20Of%20Speed%20Project%20V1", Legend Of Speed
-  [4623386862] = "https://raw.githubusercontent.com/ProjectV1ontop/ProjectV1/main/Piggy-Script", -- Piggy 
-  [3623096087] = "https://raw.githubusercontent.com/ProjectV1ontop/ProjectV1/main/Free%20Version", -- Muscle Legends
-}
+ProjectV1_MurderMystery2 = "A bit bugged"
